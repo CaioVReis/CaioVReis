@@ -9,9 +9,11 @@
 <div/>
 <div>
    
-    ![snake gif](
-https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg
-) 
+    
    
    <div/>
+
+   ![snake gif](
+https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg
+) 
 
